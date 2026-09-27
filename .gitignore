@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.pyc
+.venv/
+venv/
+.env
+companies.json
+ml_licensees_with_addr.csv
+ml_licensees_names.csv
+sheet_url.json
+*.log
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
